@@ -53,9 +53,9 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDGM1_PUSCMnknt1rj8dA5XFvhbSjBxsbM',
-    appId: '1:1035182894108:android:fb68314f0964ae3bdc03d9',
-    messagingSenderId: '1035182894108',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'ecom-app-bed72',
     storageBucket: 'ecom-app-bed72.firebasestorage.app',
   );
