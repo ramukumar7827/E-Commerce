@@ -4,7 +4,7 @@ A full-featured Flutter-based e-commerce mobile application with Firebase backen
 
 ---
 
-## 🚀 Features
+## Features
 
 - Firebase Authentication (Email/Password)
 - Add to Cart & Buy Now functionality
@@ -15,7 +15,7 @@ A full-featured Flutter-based e-commerce mobile application with Firebase backen
 
 ---
 
-## 📱 Screenshots
+## Screenshots
 
 | Home Screen | Product Details | Payment |
 |-------------|-----------------|---------|
@@ -43,6 +43,7 @@ A full-featured Flutter-based e-commerce mobile application with Firebase backen
 git clone https://github.com/your-username/ecom_app.git
 cd ecom_app
 flutter pub get
+
 
 
 
