@@ -17,13 +17,14 @@ A full-featured Flutter-based e-commerce mobile application with Firebase backen
 
 ## 📱 Screenshots
 
-| Home Screen | Product Details | Cart |
+| Home Screen | Product Details | Payment |
 |-------------|-----------------|------|
 | <img src="https://github.com/user-attachments/assets/4570f4d2-af7a-47bc-8600-48e2f89d5245" width="200" alt="Home Screen"> | <img src="https://github.com/user-attachments/assets/509b1836-5f95-4937-942c-5753ad238049" width="200" alt="Product Details"> | <img src="https://github.com/user-attachments/assets/bbe4de2d-500a-4808-9853-60fb3b5eda5c" width="200" alt="Cart"> |
-
-| Payment | Favorites | Profile |
-|---------|-----------|---------|
-| <img src="https://github.com/user-attachments/assets/payment-image-id" width="200" alt="Payment Screen"> | <img src="https://github.com/user-attachments/assets/favorites-image-id" width="200" alt="Favorites Screen"> | <img src="https://github.com/user-attachments/assets/profile-image-id" width="200" alt="Profile Screen"> |
+| Favorites | Profile |
+|-----------|---------|
+|<img width="384" height="862" alt="Screenshot 2025-08-04 014841" src="https://github.com/user-attachments/assets/58417940-0b3a-442d-b8ea-a2a99e37923a" />
+ | <img width="380" height="847" alt="Screenshot 2025-08-04 014857" src="https://github.com/user-attachments/assets/0849219e-ab24-41fc-ae35-51090815c4a0" />
+|
 
 ---
 
@@ -42,6 +43,7 @@ A full-featured Flutter-based e-commerce mobile application with Firebase backen
 git clone https://github.com/your-username/ecom_app.git
 cd ecom_app
 flutter pub get
+
 
 
 
